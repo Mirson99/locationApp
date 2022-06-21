@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.location">
+    package="edu.zespol.locationApp">
    <application
         android:label="location"
         android:name="${applicationName}"

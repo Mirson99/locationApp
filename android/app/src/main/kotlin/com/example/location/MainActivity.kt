@@ -1,4 +1,4 @@
-package com.example.location
+package edu.zespol.locationApp
 
 import io.flutter.embedding.android.FlutterActivity
 
