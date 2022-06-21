@@ -1,0 +1,54 @@
+	html, body{
+		min-height:100%;
+	}
+  
+	#Topnav {
+		background: #555;
+	}
+	
+	#Topnav div {
+		margin:auto;
+		vertical-align: middle
+	}
+	
+	#Topnav img {
+		height:27px;
+		vertical-align: middle;
+	}
+	
+	#Topnav span {
+		margin-left:10px;
+	}
+
+	#footer {
+		text-align:center;
+		font-weight:bold;
+		color:#FFF;
+	}
+	
+	#footer span {
+		margin:20px;
+	}
+	
+	.devices_table {
+	  margin-left: auto;
+	  margin-right: auto;
+	  width:70%;
+	  border:1px solid silver;
+	}
+	
+	.devices_table img{
+	  height:30px;
+	}
+	
+	.devices_table thead {
+		background-color:#c3f6c3;
+	}
+	
+	#map {
+		z-index:0;
+		min-height:200px;
+		height: 50%;
+		margin:40px;
+		border:1px solid silver;
+	}
